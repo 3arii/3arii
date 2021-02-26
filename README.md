@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Deniz Lapsekili aka 3arii
+### Hi there 👋 I'm Deniz aka 3arii
 
 
 ## I'm a Student, Developer, amateur Scientist, Sysadmin and a Pentester!
