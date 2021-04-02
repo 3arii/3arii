@@ -89,7 +89,7 @@
 
 ---
 
-_NOTE: Top languages doesn't really indicate my skill in each one, it's just a github metric of which languages I have the most code on github
+_NOTE: Top languages doesn't really indicate my skill in each one, it's just a github metric of which languages I have the most code on
 
 <a href="https://github.com/3arii">
 <img align="center" alt="Deniz Lapsekili's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=3arii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
