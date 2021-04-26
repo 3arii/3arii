@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, amateur Scientist, Sysadmin and a Pentester!
 
 - 🔭 I’m currently working on a small-scale fusor reactor and an android app
-- 🌱 I’m currently learning Java Development
+- 🌱 I’m currently learning Rust Development
 - 👯 I’m looking to collaborate on Python and Web development Projects
 - ⚡ Fun fact: I'm a hardcore star wars nerd and a 1700 rated chess player
 
