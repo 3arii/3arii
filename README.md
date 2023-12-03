@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/3arii/3arii/blob/main/header_readme.jpg)
 
-# Hello, There I am Deniz aka 3arii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello There, I am Deniz aka 3arii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Deniz, I am a full-stack developer, a pentester and a mechatronics engineer in TED Robotics. I live in Turkey and I am currently attending High School as a sophmore.
 
 # My Hobbies 😎
