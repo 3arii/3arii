@@ -13,13 +13,13 @@ My name is Deniz, I am a full-stack developer, a pentester and a mechatronics en
 
 # My Tech Stack 💻💻  
 * Python 
-* AI / ML
-* Java
+* Pytorch / Tensorflow / Numpy
 * Java Script / HTML / CSS
 * Linux / Unix
-* Pentesting
-* Web Development
-* Android App development
+* Git / Version Control
+* Express.js / Node.js
+* MongoDB
+* React.js
 
 # My Github Stats
 
